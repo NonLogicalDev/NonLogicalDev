@@ -2,7 +2,7 @@
 
 ### Useful Tools
 
-* [Drag & Drop & Clipboard Inspector and Playground](https://codepen.io/NonLogical/pen/wvrKNQG)
+* [Drag & Drop & Clipboard Inspector and Playground](https://codepen.io/NonLogical/full/wvrKNQG)
 
 <!--
 **NonLogicalDev/NonLogicalDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
